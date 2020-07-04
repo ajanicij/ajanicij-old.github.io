@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Rust in TIOBE top 20"
+date: 2020-07-04
+---
+
 # Rust Breaks Into TIOBE Top-20
 
 I am a bit late noticing this, but on June 2 Rust
